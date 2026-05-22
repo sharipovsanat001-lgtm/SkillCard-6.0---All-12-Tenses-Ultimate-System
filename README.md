@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SkillCard 6.0 - All 12 Tenses Ultimate System</title>
+    <title>SkillCard 6.0 - All 12 Tenses Ultimate System</title> 
     <style>
         * {    
             margin: 0;
