@@ -11,7 +11,7 @@
             box-sizing: border-box;  
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
         }
-
+ 
         body {
             min-height: 100vh;
             background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #311042 100%);
