@@ -6,7 +6,7 @@
     <title>SkillCard 6.0 - All 12 Tenses Ultimate System</title> 
     <style>   
         * {     
-            margin: 0;
+            margin: 0; 
             padding: 0;
             box-sizing: border-box;  
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
