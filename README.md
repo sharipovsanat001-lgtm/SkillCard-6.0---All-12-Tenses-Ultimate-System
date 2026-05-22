@@ -15,7 +15,7 @@
         body {
             min-height: 100vh;
             background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #311042 100%);
-            color: #f8fafc;
+            color: #f8fafc; 
             display: flex; 
             flex-direction: column;
             align-items: center;
